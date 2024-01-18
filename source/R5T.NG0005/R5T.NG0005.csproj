@@ -15,6 +15,6 @@
     <RepositoryUrl>https://github.com/SafetyCone/R5T.NG0005.git</RepositoryUrl>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Octokit" Version="8.1.1" />
+    <PackageReference Include="Octokit" Version="9.1.0" />
   </ItemGroup>
 </Project>
